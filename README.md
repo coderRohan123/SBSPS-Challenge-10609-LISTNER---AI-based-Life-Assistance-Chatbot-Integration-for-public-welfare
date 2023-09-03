@@ -1,7 +1,7 @@
 # SBSPS-Challenge-10609-LISTNER---AI-based-Life-Assistance-Chatbot-Integration-for-public-welfare
 LISTNER - AI-based Life Assistance Chatbot Integration for public welfare
 # Hearken Chatbot
-![Hearken Logo](hearken_logo-fotor-2023082923219.png) <!-- Add an image/logo of your chatbot here -->
+![Hearken Logo](https://github.com/coderRohan123/image/blob/main/photo_6316851553666971440_x.jpg) <!-- Add an image/logo of your chatbot here -->
 
 Hearken is an advanced chatbot designed to provide personalized responses and take appropriate actions based on the user's emotions. Whether you're using it as a Telegram bot or for SMS alerts, Hearken is here to enhance your communication experience.
 
@@ -16,15 +16,15 @@ Hearken is a versatile chatbot designed to provide seamless assistance to users.
 ### Key Features
 
 - **Emotion Detection**: Hearken utilizes advanced natural language processing to detect and understand human emotions in real-time conversations.
-  ![hearken ss](hearkyss5.jpg)
+  ![hearken ss](https://github.com/coderRohan123/image/blob/main/hearkyss5.jpg)
 
 - **Action-Oriented**: Not just a chatbot, Hearken takes necessary actions based on detected emotions, ensuring user safety and well-being.
 
 - **Telegram Integration**: Interact with Hearken seamlessly on Telegram, making it accessible wherever you are.
- ![telegram ss](telebotss.jpg) 
+ ![telegram ss](https://github.com/coderRohan123/image/blob/main/telebotss.jpg) 
 
 - **SMS Alerts**: In critical situations, Hearken can send SMS alerts to local authorities, ensuring swift and appropriate responses.
-![sms ss](twilioss.jpg)
+![sms ss](https://github.com/coderRohan123/image/blob/main/twilioss.jpg)
 
 **Hearken** is your intelligent assistant, ready to respond to your needs and emotions, making interactions more meaningful and responsive.
 
