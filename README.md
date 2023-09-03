@@ -84,18 +84,6 @@ You can deploy Hearken on IBM Cloud to make it accessible online. Follow these s
 
 Your Hearken chatbot is now deployed and accessible online through IBM Cloud.
 
-## NOTE
-There are many free websites where u can deploy your flask app:
-1. **Heroku** - [Heroku](https://www.heroku.com/)
-2. **PythonAnywhere** - [PythonAnywhere](https://www.pythonanywhere.com/)
-3. **Glitch** - [Glitch](https://glitch.com/)
-4. **Vercel** - [Vercel](https://vercel.com/)
-5. **Netlify** - [Netlify](https://www.netlify.com/)
-6. **Google Cloud Run** - [Google Cloud Run](https://cloud.google.com/run)
-7. **Microsoft Azure (Azure Functions)** - [Microsoft Azure](https://azure.microsoft.com/)
-8. **AWS Lambda** - [AWS Lambda](https://aws.amazon.com/lambda/)
-9. **GitHub Pages** - [GitHub Pages](https://pages.github.com/)
-10. **Repl.it** - [Repl.it](https://replit.com/)
 
 ## Usage
 
@@ -120,5 +108,20 @@ Hearken is designed to be user-friendly and accessible. You can interact with He
 
 Hearken is your intelligent assistant, ready to assist you in various ways and make your conversations more meaningful and responsive.
 
+
+
+
+## NOTE
+There are many free websites where u can deploy your flask app:
+1. **Heroku** - [Heroku](https://www.heroku.com/)
+2. **PythonAnywhere** - [PythonAnywhere](https://www.pythonanywhere.com/)
+3. **Glitch** - [Glitch](https://glitch.com/)
+4. **Vercel** - [Vercel](https://vercel.com/)
+5. **Netlify** - [Netlify](https://www.netlify.com/)
+6. **Google Cloud Run** - [Google Cloud Run](https://cloud.google.com/run)
+7. **Microsoft Azure (Azure Functions)** - [Microsoft Azure](https://azure.microsoft.com/)
+8. **AWS Lambda** - [AWS Lambda](https://aws.amazon.com/lambda/)
+9. **GitHub Pages** - [GitHub Pages](https://pages.github.com/)
+10. **Repl.it** - [Repl.it](https://replit.com/)
 
 
