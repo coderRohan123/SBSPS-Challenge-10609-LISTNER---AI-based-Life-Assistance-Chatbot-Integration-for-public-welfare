@@ -97,4 +97,28 @@ There are many free websites where u can deploy your flask app:
 9. **GitHub Pages** - [GitHub Pages](https://pages.github.com/)
 10. **Repl.it** - [Repl.it](https://replit.com/)
 
+## Usage
+
+Hearken is designed to be user-friendly and accessible. You can interact with Hearken in multiple ways:
+
+### 1. Web Interface
+
+- Access Hearken through a web browser by visiting [Your Hearken Web App]
+- Start a conversation by typing a message, and Hearken will respond intelligently based on your emotions.
+
+### 2. Telegram Bot
+
+- Connect with Hearken on Telegram by searching for "@HearkenBot" 
+- Start a conversation with the bot, and it will understand and respond to your emotions in real-time.
+- Receive updates and assistance from Hearken directly within your Telegram app.
+
+### 3. SMS Alerts
+
+- Hearken can send SMS alerts to your mobile phone in critical situations.
+- To enable SMS alerts, navigate to your profile settings in the web interface or Telegram bot and provide your phone number and preferences.
+- Receive timely notifications and alerts sent by Hearken to ensure your safety and well-being.
+
+Hearken is your intelligent assistant, ready to assist you in various ways and make your conversations more meaningful and responsive.
+
+
 
