@@ -6,6 +6,10 @@ LISTNER - AI-based Life Assistance Chatbot Integration for public welfare
 
 Hearken is an advanced chatbot designed to provide personalized responses and take appropriate actions based on the user's emotions. Whether you're using it as a Telegram bot or for SMS alerts, Hearken is here to enhance your communication experience.
 
+## Demo
+[Watch the Demo](https://youtu.be/g6LWvyU6xjc)
+
+
 ## About the Project
 
 Hearken is a versatile chatbot designed to provide seamless assistance to users. Whether you prefer to interact with it through a web interface or Telegram bot, Hearken is here to enhance your communication experience.
