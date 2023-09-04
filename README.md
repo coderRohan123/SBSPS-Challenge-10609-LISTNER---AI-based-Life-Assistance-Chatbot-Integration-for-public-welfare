@@ -21,7 +21,10 @@ Hearken is a versatile chatbot designed to provide seamless assistance to users.
 - **Action-Oriented**: Not just a chatbot, Hearken takes necessary actions based on detected emotions, ensuring user safety and well-being.
 
 - **Telegram Integration**: Interact with Hearken seamlessly on Telegram, making it accessible wherever you are.
- <img src="hearken_ss/telebotss.jpg" width="480px"/>() 
+- search for hearky_bot on telegram or head over to t.me/heaky_bot to use hearky bot
+- don't foreget to use "/ai" before any message you type in.
+  
+ <img src="hearken_ss/telebotss.jpg" width="480px"/>
 
 - **SMS Alerts**: In critical situations, Hearken can send SMS alerts to local authorities, ensuring swift and appropriate responses.
 <img src="hearken_ss/twilioss.jpg" width="280px"/>
