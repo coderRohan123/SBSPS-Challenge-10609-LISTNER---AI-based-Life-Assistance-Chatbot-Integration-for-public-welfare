@@ -27,7 +27,7 @@ loaded_model = joblib.load('/content/emotion_model.joblib')
   Shame-7
   surprise-8'''
 
-
+#comment the telebot part if you want to just use the chatbot in web
 import telebot
 bot=telebot.TeleBot('6447345913:AAHAJCE94pJ3weuLKV2gqdf7T6UiIp6IAW0')
 
@@ -66,7 +66,7 @@ if __name__=='__main__':
   print('bot is running')
   bot.polling()
 
-
+#comment this part if u want to use telebot
 #a public url will be generated on which our web app will be rendered locally(when using google colab)
 from google.colab.output import eval_js
 print(eval_js("google.colab.kernel.proxyPort(5000)"))
