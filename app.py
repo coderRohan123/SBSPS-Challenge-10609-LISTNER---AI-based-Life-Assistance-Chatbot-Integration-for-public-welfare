@@ -28,6 +28,7 @@ loaded_model = joblib.load('/content/emotion_model.joblib')
   surprise-8'''
 
 #comment the telebot part if you want to just use the chatbot in web
+#to use telebot open telegram and serach hearky_bot or head over to t.me/hearky_bot on your browser
 import telebot
 bot=telebot.TeleBot('6447345913:AAHAJCE94pJ3weuLKV2gqdf7T6UiIp6IAW0')
 
